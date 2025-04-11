@@ -1,5 +1,12 @@
 #!/bin/bash
 
+echo "▄▄▄·▄▄▄ .▄▄▄  .▄▄ ·        ▐ ▄  ▄▄▄· ▄▄▌     ▄▄▄· ▪"
+echo "▐█ ▄█▀▄.▀·▀▄ █·▐█ ▀.  ▄█▀▄ •█▌▐█▐█ ▀█ ██•    ▐█ ▀█ ██"
+echo " ██▀·▐▀▀▪▄▐▀▀▄ ▄▀▀▀█▄▐█▌.▐▌▐█▐▐▌▄█▀▀█ ██ ▪   ▄█▀▀█ ▐█·"
+echo "▐█▪·•▐█▄▄▌▐█•█▌▐█▄▪▐█▐█▌.▐▌██▐█▌▐█▪ ▐▌▐█▌ ▄  ▐█▪ ▐▌▐█▌"
+echo ".▀    ▀▀▀ .▀  ▀ ▀▀▀▀  ▀█▄▀▪▀▀ █▪ ▀  ▀ .▀▀▀    ▀  ▀ ▀▀▀"
+
+
 # Chiedi all'utente quale versione di GEMMA usare
 echo "Scegli la versione di GEMMA da avviare:"
 echo "1) GEMMA3"
